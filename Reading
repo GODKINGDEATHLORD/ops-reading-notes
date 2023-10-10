@@ -1,0 +1,11 @@
+How is a hardware hack different than a software hack? ( i did this already, i typed alot of notes originally as I read but i'm going to type a more abbreviated analysis. More or less based off memory so there may be inconsistencies from the source document but it will be right for the most part. Also my grammar will be off, in the future ill be more di) 
+A hardware hack is something physical that affects a device, and leaves a physical trail, where as software infiltrates through the software 
+What are the two ways for spies to alter a computer’s hardware?
+The easiest way to hack a device is before its distributed during the motherboards creation and hackers will mainly use interdiction And seeding ( interdiction is manipulation devices as they’re in transit from manufacture to customer, and the other is seeding changes from the beginning 
+Explain how the hack worked. 
+China has control of about 97% of all technology that funnels through to america. In 2015 the company elemental which is a company that sells servers to high profile corporations such as amazon, apple, the dod, fbi, cia, etc subcontracts to a company called supermicro to make its motherboards. These motherboards had a small chip, with a small amount of data that was placed right before the CPU. This had two actions it would make the computer sent out alll its data to several more powerful computers that would install malicious data, and it would prepare the computer to receive the code. 
+How were investigators able to trace the chips back to the source?
+US intelligiience was alerted to this threat, prior to the breach, but withheld the information from the public to save shares of elemental, which is one of the US’s biggest companies, apple discovered it first after finding bugs in the phone, and then after amazon acquired elemental they conducted their own investigation and found even smaller microchips, some even embedded in the fiberglass of the motherboards. Because hardware hacks leave a papertrail it was easy to terrace it to china, and it was traced back to about 4 different warehouses. Each were tampered with by the peoples liberation army. Which were known of, but unnannouced by the CIA till the breach
+
+## Things I want to know more about
+How can i get my c
