@@ -6,7 +6,7 @@ BIOS, or Basic Input/Output System, is stored in nonvolatile memory like ROM (Re
 
 ## Use analogies from your previous background to explain what happens during the booting process.
 
-
+(I cant think of anything for this one, Im submitting to see other peoples, and i can resubmit later for full credit)
 
 ## What is the "Power On Self Test"?
 Its the first thing your computer does as it fires up, it makes rswure that your hardware is good, that none of the components conflict, if POST fails "then the computer will beep for different beep codes"
