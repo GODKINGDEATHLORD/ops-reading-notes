@@ -12,29 +12,31 @@ Despite the articile provided saying there was several ways, I found multiple ar
 3. **What are some of the most commonly used commands?**
 -Chkdsk=check disk
 
--copy= copy
+-copy= *copy*
 
--del = delete
+-del =  *delete*
 
--ftp= file transfer protocol
+-ftp= *file transfer protocol*
   
--format= format
+-format= *format*
 
--ping= ping 
+-ping= *ping* 
 
--attrib= displays or changes attributes 
+-attrib= *displays or changes attributes* 
 
--net= manage network
+-net= *manage network*
 
--dir= used to display a list of the files and subfolders contained in a folder 
+-dir= *used to display a list of the files and subfolders contained in a folder* 
 
--help= used to get more information
+-help= *used to get more information*
 
--shutdown= used to shutdown
+-shutdown= *used to shutdown*
 
 4. **What is Windows Power Shell?**
+
 Shell will proved text only interface, lthat interpret commant line. It can do a  (Bing AI) *is a more advanced command-line interface that was introduced in 2006. It is based on the .NET framework and provides a more powerful scripting environment than Command Prompt. PowerShell allows users to automate tasks and create custom scripts using a wide range of commands and modules.*
 5. **What is Windows Terminal?**
+   
 Its the new command line for windows 10, and 11 and is meant to combine bash, shell, and other cli to replace command prompt 
 (Bing AI) *Windows Terminal is a modern, open-source terminal application that allows users to run multiple command-line tools simultaneously in separate tabs or panes. It supports Command Prompt, PowerShell, and other command-line tools such as Bash, Git, and WSL.*
 
