@@ -1,6 +1,6 @@
 # Reading 04: CompTIA A+ 220-902 Troubleshooting Methododology
 
-(image)[https://th.bing.com/th/id/OIP.vYHpuX7Pf-UzCwPf0B-qigHaD1?w=339&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7]
+![image](https://th.bing.com/th/id/OIP.vYHpuX7Pf-UzCwPf0B-qigHaD1?w=339&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7)
 
 ## What should you do if multiple issues are happening simultaneously during troubleshooting?
 *Document all of it, so you can get a better understanding of what it could be, and begin to establish better theories* 
