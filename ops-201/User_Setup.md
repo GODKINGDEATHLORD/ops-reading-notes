@@ -51,4 +51,4 @@ User will create accounts using wizards
 *Put links and diagrams here*
 ## 9. Revision History:
 
-Originally I was going to use jumpcloud, but it is a paid service so that wouldnt work. I then tried another cloud user provisioning service ( IBM ) , but all of them are mostly paid services
+Originally I was going to use jumpcloud, but it is a paid service so that wouldnt work. I then tried another cloud user provisioning service ( IBM ) , but all of them are mostly paid servicesName
