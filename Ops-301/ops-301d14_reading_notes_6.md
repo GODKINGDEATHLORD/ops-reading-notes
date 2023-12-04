@@ -1,4 +1,4 @@
-I apologize for the misunderstanding. Here's the response with direct quotes from the information you provided:
+
 
 # Network Address Translation (NAT)
 ![Alt text](image-2.png)
