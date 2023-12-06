@@ -1,4 +1,4 @@
-Given the image content, here's how the answers to the questions would look formatted in markdown:
+
 
 # Computer Network - AAA (Authentication, Authorization and Accounting)
  ![Alt text](image.png)
