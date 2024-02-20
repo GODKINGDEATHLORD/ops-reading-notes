@@ -1,0 +1,11 @@
+# Reading: Getting Started with Zed Attack Proxy
+
+**[Getting Started with Zed Attack Proxy](https://www.zaproxy.org/getting-started/)**
+
+Understand the stages of the Penetration Testing process, the concept of a "man-in-the-middle proxy," and the functionalities of ZAP spiders.
+
+## 1. What are the three common stages of the Penetration Testing process and what tasks are performed at each one?
+
+## 2. Explain a “man-in-the-middle proxy” in non-technical terms.
+
+## 3. What are the 2 spiders available for use in ZAP? What situations are they best suited for?
