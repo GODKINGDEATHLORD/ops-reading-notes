@@ -1,0 +1,24 @@
+# Reading: Log Clearing 101
+
+**[Log Tampering 101](https://resources.infosecinstitute.com/topic/ethical-hacking-log-tampering-101/)**
+
+"Getting caught is exactly what every hacker does not want. They want to be able to gain entry into a system and then quickly withdraw to the safety of the internet café they are presumably hacking from. Logs are designed to record nearly everything that occurs in a system, including hacking attempts, and can be the determinative factor in catching hackers after their crime has been committed."
+
+## 1. Explain some specifics of why a hacker might want to clear log files to a family member.
+
+"Tampering with logs is the equivalent of covering these obvious tracks that administrators use to catch hackers."
+
+## 2. What are three methods by which you can clear logs in a Windows system?
+
+- Clearlogs.exe
+- Meterpreter
+- Windows Event Viewer
+
+## 3. What are the four steps in the process of covering your tracks?
+
+1. Disable auditing
+2. Clearing logs
+3. Modifying logs
+4. Erasing command history"
+
+
