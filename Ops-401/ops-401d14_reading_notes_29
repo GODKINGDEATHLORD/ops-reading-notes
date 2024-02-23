@@ -1,0 +1,26 @@
+# Reading: Application Threat Modeling
+
+**[Application Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)**
+
+**# Reading: A Beginners Guide To The STRIDE Security Threat Model**
+
+**[A Beginners Guide To The STRIDE Security Threat Model](https://www.okcam.io/learn/blog/introduction_to_STRIDE_security_model)**
+
+Explain threat modeling using real-world non-technical examples.
+
+## 1. Explain threat modeling using real-world non-technical examples.
+
+It works to identify and understand threats, with the intent of mitgating a protecting a system or application. Its kindve like a mount town where you'd expose your troops to different scenarios so they can be tougher 
+
+## 2. What are the four questions that can help us organize threat modeling?
+
+1. "What are we working on?"
+2. "What can go wrong?"
+3. "What are we going to do about it?"
+4. "Did we do a good job?"
+
+## 3. You are the project lead for a new application. How would you explain the benefits of Threat Modeling to the rest of the team?
+
+This allows us to be proactive with our security, and prevent any defects, downtime, or total loss.
+
+
