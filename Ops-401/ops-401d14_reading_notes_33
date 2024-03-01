@@ -1,0 +1,17 @@
+[What is Malware Analysis? Definition, Types, Stages, & Best Practices](https://www.spiceworks.com/it-security/data-security/articles/what-is-malware-analysis-definition-types-stages-best-practices/#_001)
+
+# You just started a new job as a Malware Analyst. Explain your job responsibilities to a family member.
+My job would be to dissect malicious software designed to damage a computer system without the owner's knowledge to understand its core components and source code, investigating its characteristics, functionality, origin, and impact to mitigate the threat and prevent future occurrences.
+
+# What are the six steps of the Malware Analysis process? What’s a good mnemonic you can use to remember it?
+- Capture the Malware
+- Build a malware Lab
+- Install your tools
+- Record the baseline
+- Commence your investigation
+- Document the results
+
+Mnemonic - BIRDCC (NOT IN ORDER)
+
+# You are tasked with analyzing a new malware sample. Which type of malware analysis would you conduct first and why?
+While all methods have pros and cons associated with them, I believe when encountering a new malware sample, Static malware analysis would be the most beneficial. Static malware analysis can be done very quickly and often gives enough information needed to create an indicator of compromise, which is a document recording the software’s malicious nature. This can narrow down very quickly the severity of the malware and whether or not there is more analysis needed.

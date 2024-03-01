@@ -1,0 +1,14 @@
+# Class 34: Understanding Computer Forensics vs. Cybersecurity
+
+## Main Differences Between Computer Forensics and Cybersecurity
+
+The main difference between computer forensics and cybersecurity lies in their responsibilities and goals. Cybersecurity is primarily focused on preventing and mitigating cybercrime by optimizing an organization's security protocols. Its aim is to safeguard data from cyber threats before they occur. On the other hand, computer forensics is concentrated on extracting and analyzing data from various platforms, not just for cybercrime investigations but also for legal evidence and recovery purposes. Computer forensics is often reactive, dealing with the aftermath of a security incident to understand how it happened and to prevent future occurrences.
+
+## Six Stages of a Computer Forensics Examination
+
+1. **Readiness:** Preparing tools, techniques, and legal permissions needed for the forensic process.
+2. **Evaluation:** Assessing the case to define the scope and objectives of the forensic examination.
+3. **Collection:** Acquiring evidence in a manner that preserves its integrity, ensuring it is admissible in court.
+4. **Analysis:** Examining the collected evidence to uncover relevant data and understand the specifics of the incident.
+5. **Presentation:** Reporting the findings in a clear and comprehensive manner, suitable for understanding by non-technical stakeholders.
+6. **Review:** Assessing the forensic process post-completion to identify any improvements or lessons learned for future cases.
